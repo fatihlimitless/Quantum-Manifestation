@@ -101,10 +101,11 @@ MIT License - Feel free to use this project for personal or commercial purposes.
 
 ## 🙏 Acknowledgments
 
-Built with Antigravity AI - Demonstrating the power of consciousness and intention.
+Demonstrating the power of consciousness and intention.
 
 ---
 
 **Start manifesting your dreams today! ✨**
 
 *Remember: Your consciousness shapes reality. The quantum field responds to your intentions.*
+
