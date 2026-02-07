@@ -19,7 +19,7 @@ A stunning web application that uses quantum field visualization and consciousne
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://yourusername.github.io/quantum-manifestation-ai)
+[View Live Demo](https://fatihlimitless.github.io/quantum-manifestation)
 
 ## 📸 Screenshots
 
@@ -108,4 +108,5 @@ Demonstrating the power of consciousness and intention.
 **Start manifesting your dreams today! ✨**
 
 *Remember: Your consciousness shapes reality. The quantum field responds to your intentions.*
+
 
