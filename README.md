@@ -17,14 +17,6 @@ A stunning web application that uses quantum field visualization and consciousne
 - **Data Persistence** - All manifestations saved locally
 - **Premium Design** - Glassmorphism effects, smooth animations, and cosmic aesthetics
 
-## 🚀 Live Demo
-
-[View Live Demo](https://fatihlimitless.github.io/quantum-manifestation)
-
-## 📸 Screenshots
-
-![Quantum Manifestation AI Interface](screenshot.png)
-
 ## 🎯 How to Use
 
 1. **Enter Your Desire** - Type what you wish to manifest
@@ -32,6 +24,8 @@ A stunning web application that uses quantum field visualization and consciousne
 3. **Set Intensity** - Adjust the manifestation power (1-10)
 4. **Send to Quantum Field** - Watch the quantum encoding animation
 5. **Track Progress** - Monitor your manifestations as they align with reality
+
+If you want, you can connect here directly: https://6987255dc288e6a546b51e5d--eloquent-beijinho-9f59fc.netlify.app/
 
 ## 🛠️ Technologies
 
@@ -108,5 +102,6 @@ Demonstrating the power of consciousness and intention.
 **Start manifesting your dreams today! ✨**
 
 *Remember: Your consciousness shapes reality. The quantum field responds to your intentions.*
+
 
 
